@@ -26,7 +26,7 @@ const Contact = () => {
           <div className="flex mt-6 justify-around">
             <a href="https://twitter.com/yokamoto66"
                target="_blank"
-               rel="noopener "
+               rel="noopener noreferrer"
             >
             <svg
                 className="w-6 h-6 mr-3 text-blue-500"
@@ -41,7 +41,7 @@ const Contact = () => {
             <div>
               <a href="https://twitter.com/yokamoto66"
                 target="_blank"
-                rel="noopener "
+                rel="noopener noreferrer"
               >
               <svg
                   className="w-6 h-6 mr-3 text-blue-700"
